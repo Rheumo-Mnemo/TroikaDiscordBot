@@ -1,0 +1,2 @@
+I have used AwkwardTurtle42's code and created a functioning discord bot
+Link to install bot: https://discord.com/api/oauth2/authorize?client_id=726605439814467634&permissions=0&scope=bot
